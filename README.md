@@ -6,10 +6,10 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Experienced in Python, R, SQL and PowerBI <br>📚 Studying towards an MSc in Data Science & Fin Tech<br>🎯 Currently working on my thesis in using machine learning to improve real estate risk forecasting</p>
 
 ###
