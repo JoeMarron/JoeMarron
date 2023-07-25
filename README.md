@@ -1,8 +1,7 @@
 <h1 align="left">Joe Marron</h1>
-
 ###
 
-<h2 align="left">Systems & Data Architect</h2>
+<p align="left">Systems & Data Architect</p>
 
 ###
 
