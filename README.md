@@ -1,7 +1,7 @@
 <h1 align="left">Joe Marron</h1>
 
 
-**<p align="left">Data Analyst</p>**
+**<h3 align="left">Data Analyst</h3>**
 
 ###
 
