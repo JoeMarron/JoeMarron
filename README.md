@@ -12,7 +12,7 @@
 - 📊 Power BI Dashboards
 - 
 
-<hr style="border:1px solid gray">
+<hr style="border:0.2px solid gray">
 
 ### Projects Highlights
 
