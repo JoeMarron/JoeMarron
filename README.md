@@ -11,7 +11,9 @@
 - 📑 SQL Queries and Database Projects
 - 📊 Power BI Dashboards
 - 
------
+
+<hr>
+
 ### Projects Highlights
 
 - [Project 1: Predictive Customer Churn Analysis](link-to-project1): Leveraged machine learning to predict customer churn for a telecom company, resulting in a 15% reduction in churn rate.
