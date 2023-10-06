@@ -1,8 +1,24 @@
 <h1 align="left">Joe Marron</h1>
-
-
-**<h2 align="left">Data Analyst</h2>**
-
-<p align="left">- Experienced in Python, R, SQL and PowerBI <br>- Studying towards an MSc in Data Science & Fin Tech<br>- Currently working on my MSc thesis, using machine learning to forecast real estate risk exposure</p>
-
 ###
+
+Experienced Data Analyst with a MSc in Data Science & Financial Technology, Passionate about leveraging data to drive insights and make informed decisions. Here, you'll find a collection of my projects and contributions related to data analysis, machine learning, and more.
+
+## About Me
+- 💼 Experienced Data Analyst
+- 🎓 MSc in Data Science & Financial Technology
+- 🚀 Passionate about using data to solve complex problems
+- 👨‍💻 Proficient in Python, R, SQL, and Power BI...
+
+## What You'll Find Here
+
+- 📊 Data Analysis Projects
+- 🤖 Machine Learning Experiments
+- 📈 Data Visualization Examples
+- 📑 SQL Queries and Database Projects
+- 📊 Power BI Dashboards
+
+## Projects Highlights
+
+- [Project 1: Predictive Customer Churn Analysis](link-to-project1): Leveraged machine learning to predict customer churn for a telecom company, resulting in a 15% reduction in churn rate.
+- [Project 2: Financial Market Analysis](link-to-project2): Analyzed stock market data using Python and R to identify profitable trading strategies.
+- [Project 3: Interactive Sales Dashboard](link-to-project3): Created a Power BI dashboard for sales data visualization and analysis, providing actionable insights to the sales team.
