@@ -1,15 +1,12 @@
 <h1 align="left">Joe Marron</h1>
-###
 
-Experienced Data Analyst with a MSc in Data Science & Financial Technology, Passionate about leveraging data to drive insights and make informed decisions. Here, you'll find a collection of my projects and contributions related to data analysis, machine learning, and more.
-
-## About Me
+## About me
 - 💼 Experienced Data Analyst
 - 🎓 MSc in Data Science & Financial Technology
 - 🚀 Passionate about using data to solve complex problems
 - 👨‍💻 Proficient in Python, R, SQL, and Power BI...
 
-## What You'll Find Here
+### What You'll Find Here
 
 - 📊 Data Analysis Projects
 - 🤖 Machine Learning Experiments
