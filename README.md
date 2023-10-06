@@ -8,6 +8,5 @@
 
 ### Projects Highlights
 
-- [Deep Learning for VaR Predictions in the UK Residential Real Estate Market](https://github.com/joemarron/real-estate-risk-forecasting)
-- [Project 2: Financial Market Analysis](link-to-project2): Analyzed stock market data using Python and R to identify profitable trading strategies.
-- [Project 3: Interactive Sales Dashboard](link-to-project3): Created a Power BI dashboard for sales data visualization and analysis, providing actionable insights to the sales team.
+- [Deep Learning for VaR Predictions in the UK Residential Real Estate Market](https://github.com/joemarron/real-estate-risk-forecasting): Completed as part of my MSc dissertation, I appied deep learning models to UK House Price Index data in order to predict Value-at-Risk in the UK real estate industry.
+- [Predicting Formula 1 Race Winners in R](https://github.com/joemarron/formula-1-machine-learning): Developing a Neural Network model to predict Formula 1 race winners in R.
