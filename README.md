@@ -10,12 +10,11 @@
 - 📈 Data Visualization Examples
 - 📑 SQL Queries and Database Projects
 - 📊 Power BI Dashboards
-- 
 
 ##
 
 ### Projects Highlights
 
-- [Project 1: Predictive Customer Churn Analysis](link-to-project1): Leveraged machine learning to predict customer churn for a telecom company, resulting in a 15% reduction in churn rate.
+- [Deep Learning for VaR Predictions in the UK Residential Real Estate Market]([link-to-project1](https://github.com/joemarron/real-estate-risk-forecasting))
 - [Project 2: Financial Market Analysis](link-to-project2): Analyzed stock market data using Python and R to identify profitable trading strategies.
 - [Project 3: Interactive Sales Dashboard](link-to-project3): Created a Power BI dashboard for sales data visualization and analysis, providing actionable insights to the sales team.
