@@ -15,6 +15,6 @@
 
 ### Projects Highlights
 
-- [Deep Learning for VaR Predictions in the UK Residential Real Estate Market](https://github.com/joemarron/real-estate-risk-forecasting)
+- [Deep Learning for VaR Predictions in the UK Residential Real Estate Market]([https://github.com/joemarron/real-estate-risk-forecasting])
 - [Project 2: Financial Market Analysis](link-to-project2): Analyzed stock market data using Python and R to identify profitable trading strategies.
 - [Project 3: Interactive Sales Dashboard](link-to-project3): Created a Power BI dashboard for sales data visualization and analysis, providing actionable insights to the sales team.
