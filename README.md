@@ -6,7 +6,7 @@
 - 🚀 Passionate about using data to solve complex problems
 - 👨‍💻 Proficient in Python, R, SQL, and Power BI...
 
-### What You'll Find Here
+#### What You'll Find Here
 
 - 📊 Data Analysis Projects
 - 🤖 Machine Learning Experiments
