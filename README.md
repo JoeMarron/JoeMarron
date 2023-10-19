@@ -5,7 +5,7 @@
 - 📈 Proficient in Python, R, SQL, and Power BI
 
 ##
-[![Button Click]][https://www.google.com]
+![Button Click]
 ### Projects Highlights
 
 - [Personal Finance Pipeline + Dashboard](https://github.com/joemarron/personal-finance-pipeline) : Automation of personal finance tracking utilising GoCardless API, Airflow, Python and SQL, with analysis visualised in Power BI. 
