@@ -1,7 +1,6 @@
 ## Joe Marron
 - 💼 Experienced Data Analyst
 - 🎓 MSc in Data Science & Financial Technology
-- 📊 Passionate about using data to solve complex problems
 - 📈 Proficient in Python, SQL, and Power BI
 
 ##
